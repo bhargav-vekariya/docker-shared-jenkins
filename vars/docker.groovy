@@ -1,4 +1,4 @@
 def call() {
-  echo "hello"
+  sh 'docker ps'
 
 }
